@@ -1,4 +1,4 @@
-Prague-Parking-V2 is a prototype application that resembles a parking lot management system written in C#. 
+# Prague-Parking-V2 is a prototype application that resembles a parking lot management system written in C#. 
 
 The purpose of Prague-Parking-V2 is to deliver a user friendly experience for customers when managing their vehicle inside of a parking lot. 
 
