@@ -1,0 +1,10 @@
+# Prague Parking Price List
+# All prices in CZK per started hour
+# First 10 minutes are free
+
+Car: 20 CZK/hour
+Motorcycle: 10 CZK/hour  
+Bus: 50 CZK/hour
+Bicycle: 5 CZK/hour
+
+

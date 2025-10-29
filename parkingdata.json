@@ -1,0 +1,605 @@
+{
+  "parkingSpots": [
+    {
+      "spotNumber": 1,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 2,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 3,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 4,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 5,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 6,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 7,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 8,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 9,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 10,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 11,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 12,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 13,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 14,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 15,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 16,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 17,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 18,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 19,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 20,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 21,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 22,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 23,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 24,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 25,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 26,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 27,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 28,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 29,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 30,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 31,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 32,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 33,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 34,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 35,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 36,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 37,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 38,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 39,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 40,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 41,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 42,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 43,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 44,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 45,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 46,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 47,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 48,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 49,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 50,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 51,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 52,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 53,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 54,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 55,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 56,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 57,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 58,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 59,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 60,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 61,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 62,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 63,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 64,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 65,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 66,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 67,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 68,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 69,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 70,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 71,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 72,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 73,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 74,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 75,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 76,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 77,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 78,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 79,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 80,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 81,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 82,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 83,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 84,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 85,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 86,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 87,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 88,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 89,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 90,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 91,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 92,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 93,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 94,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 95,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 96,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 97,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 98,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 99,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    },
+    {
+      "spotNumber": 100,
+      "vehicles": [],
+      "isBusOccupied": false,
+      "occupiedByBus": ""
+    }
+  ],
+  "name": "David's Parking Lot in Prague"
+}

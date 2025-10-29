@@ -1,0 +1,41 @@
+{
+  "NumberOfParkingSpots": 100,
+  "VehicleTypes": [
+    {
+      "Type": "CAR",
+      "Name": "Car",
+      "HourlyRate": 20.0,
+      "SpotsRequired": 1,
+      "CapacityPerSpot": 1
+    },
+    {
+      "Type": "MC", 
+      "Name": "Motorcycle",
+      "HourlyRate": 10.0,
+      "SpotsRequired": 1,
+      "CapacityPerSpot": 2
+    },
+    {
+      "Type": "BUS",
+      "Name": "Bus",
+      "HourlyRate": 50.0,
+      "SpotsRequired": 4,
+      "CapacityPerSpot": 1
+    },
+    {
+      "Type": "BIKE",
+      "Name": "Bicycle",
+      "HourlyRate": 5.0,
+      "SpotsRequired": 1,
+      "CapacityPerSpot": 5
+    }
+  ],
+  "PriceListFile": "config/prices.txt",
+  "Capacities": {
+    "CarsPerSpot": 1,
+    "MotorcyclesPerSpot": 2,
+    "BusesPerSpot": 1,
+    "BicyclesPerSpot": 5,
+    "BusSpotsRequired": 4
+  }
+}
