@@ -76,7 +76,6 @@ namespace PragueParking
                 if (string.IsNullOrEmpty(priceListContent))
                 {
                     priceListContent = @"# Prague Parking Price List
-# All prices in CZK per started hour
 # First 10 minutes are free
 
 Car: 20 CZK/hour
