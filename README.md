@@ -16,26 +16,34 @@ The purpose of Prague-Parking-V2 is to deliver a user friendly experience for cu
 
 # Instructions to install and run Prague-Parking-V2:
 ## Clone the repository
-$ git clone https://github.com/NilsDavid01/Prague-Parking-V2.git
-
+```bash
+git clone https://github.com/NilsDavid01/Prague-Parking-V2.git
+```
 ## Navigate to the project directory
-$ cd Prague-Parking-V2/
-
+```bash
+cd Prague-Parking-V2/
+```
 ## Build the application
-$ dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal
-
+```bash
+dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal
+```
 ## Run the application
-$ dotnet run --project src/MainApp/MainApp.csproj --configuration Release
-
+```bash
+dotnet run --project src/MainApp/MainApp.csproj --configuration Release
+```
 # Download and install Prague-Parking-V2 the fast way by using only one Windows Powershell command:
-$ git clone https://github.com/NilsDavid01/Prague-Parking-V2.git; cd Prague-Parking-V2; dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal; dotnet run --project src/MainApp/MainApp.csproj --configuration Release
+```bash
+git clone https://github.com/NilsDavid01/Prague-Parking-V2.git; cd Prague-Parking-V2; dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal; dotnet run --project src/MainApp/MainApp.csproj --configuration Release
+```
 
 # Download and install Prague-Parking-V2 the fast way by using only one Linux bash shell command:
-
-$ git clone https://github.com/NilsDavid01/Prague-Parking-V2.git && cd Prague-Parking-V2/ && dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal && dotnet run --project src/MainApp/MainApp.csproj --configuration Release
-
+```bash
+git clone https://github.com/NilsDavid01/Prague-Parking-V2.git && cd Prague-Parking-V2/ && dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal && dotnet run --project src/MainApp/MainApp.csproj --configuration Release
+```
 # Command to run all of the MSTest testing tasks:
-$ dotnet test tests/UnitTests/UnitTests.csproj --verbosity normal
+```bash
+dotnet test tests/UnitTests/UnitTests.csproj --verbosity normal
+```
 
 
 
