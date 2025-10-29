@@ -28,8 +28,13 @@ $ dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal
 $ dotnet run --project src/MainApp/MainApp.csproj --configuration Release
 
 # Download and install Prague-Parking-V2 the fast way by using only one Windows Powershell command:
-git clone https://github.com/NilsDavid01/Prague-Parking-V2.git; cd Prague-Parking-V2; dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal; dotnet run --project src/MainApp/MainApp.csproj --configuration Release
+$ git clone https://github.com/NilsDavid01/Prague-Parking-V2.git; cd Prague-Parking-V2; dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal; dotnet run --project src/MainApp/MainApp.csproj --configuration Release
 
 # Download and install Prague-Parking-V2 the fast way by using only one Linux bash shell command:
 $ git clone https://github.com/NilsDavid01/Prague-Parking-V2.git && cd Prague-Parking-V2/ && dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal && dotnet run --project src/MainApp/MainApp.csproj --configuration Release
+
+# Command to run all of the MSTest testing tasks:
+$ dotnet test tests/UnitTests/UnitTests.csproj --verbosity normal
+
+
 
