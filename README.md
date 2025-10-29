@@ -15,19 +15,19 @@ The purpose of Prague-Parking-V2 is to deliver a user friendly experience for cu
 - .NET SDK 9.0 
 
 # Instructions to install and run Prague-Parking-V2:
-## Clone the repository
+## 1. Clone the repository
 ```bash
 git clone https://github.com/NilsDavid01/Prague-Parking-V2.git
 ```
-## Navigate to the project directory
+## 2. Navigate to the project directory
 ```bash
 cd Prague-Parking-V2/
 ```
-## Build the application
+## 3. Build the application
 ```bash
 dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal
 ```
-## Run the application
+## 4. Run the application
 ```bash
 dotnet run --project src/MainApp/MainApp.csproj --configuration Release
 ```
