@@ -11,7 +11,7 @@ The purpose of Prague-Parking-V2 is to deliver a user friendly experience for cu
 * Reload price list config file
 * Save praking lot data 
 
-# System requirmemts to run Prague-Parking-V2:
+# System requirments to run Prague-Parking-V2:
 - .NET SDK 9.0 
 
 # Instructions to install and run Prague-Parking-V2:
