@@ -13,8 +13,15 @@ System requirmemts to run Prague-Parking-V2:
 * .NET SDK 9.0 needs to be installed
 
 Instructions to install and run Prague-Parking-V2:
+# Clone the repository
 $ git clone https://github.com/NilsDavid01/Prague-Parking-V2.git
+
+# Navigate to the project directory
 $ cd Prague-Parking-V2/
+
+# Build the application
 $ dotnet build PragueParkingV2.sln --configuration Release --verbosity minimal
+
+# Run the application
 $ dotnet run --project src/MainApp/MainApp.csproj --configuration Release
 
