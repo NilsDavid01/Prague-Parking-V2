@@ -1,6 +1,6 @@
 Prague-Parking-V2 is a prototype application that resembles a parking lot management system written in C#. 
 
-The purpose of Prague-Parking-V2 is to deliver a user friendly experience for customers when managing their vehicle. 
+The purpose of Prague-Parking-V2 is to deliver a user friendly experience for customers when managing their vehicle inside of a parking lot. 
 
 # Features: 
 * Park a vehicle
@@ -10,7 +10,7 @@ The purpose of Prague-Parking-V2 is to deliver a user friendly experience for cu
 * View the current parking prices for different vehicle types. 
 
 # System requirmemts to run Prague-Parking-V2:
-* .NET SDK 9.0 needs to be installed
+- .NET SDK 9.0 
 
 # Instructions to install and run Prague-Parking-V2:
 # Clone the repository
