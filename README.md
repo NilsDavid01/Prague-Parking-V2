@@ -45,7 +45,6 @@ git clone https://github.com/NilsDavid01/Prague-Parking-V2.git && cd Prague-Park
 dotnet test tests/UnitTests/UnitTests.csproj --verbosity normal
 ```
 ## Development Log
-See [LOGGBOOK.md](LOGGBOOK.md) for detailed development notes and changelog.
-
+Click here >> [LOGGBOOK.md](LOGGBOOK.md) to view the development notes about Prague-Parking-V2.
 
 
