@@ -35,5 +35,5 @@ Vehicle_ValidRegistrationNumber_ShouldPassValidation och Vehicle_InvalidRegistra
 ## Dag 9: Systemtest
 Jag testade hela systemflödet: från själva parkeringen fram till utcheckningen. Verifierade fordonsdelning på platser. Genomförde tester kring parkering för bussar. Såg till att alla konfigurationsfiler fungerade.
 ## Dag 10: Avslutning
-Jag förbättrade användargränssnittet med färgkodning. Kodgranskning och kravverifiering genomfördes. Jag såg till att alla krav var uppfyllda, därefter ladda jag upp projektet till github. 
+Jag förbättrade användargränssnittet med färgkodning. Kodgranskning och kravverifiering genomfördes. Jag såg till att alla krav var uppfyllda, därefter laddade jag upp projektet till github. 
 
