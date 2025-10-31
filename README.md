@@ -9,7 +9,7 @@ The purpose of Prague-Parking-V2 is to deliver a user friendly experience for cu
 * Show parking map. This feature gives the user relevant status information of all the parking spots.
 * View the current parking prices for different vehicle types.
 * Reload price list config file
-* Save praking lot data 
+* Save parking lot data 
 
 # System requirments to run Prague-Parking-V2:
 - .NET SDK 9.0 
