@@ -34,6 +34,6 @@ ParkMotorcycle_CanShareSpotWithAnotherMotorcycle ser till att 2 motorcycklar kan
 Vehicle_ValidRegistrationNumber_ShouldPassValidation och Vehicle_InvalidRegistrationNumber_ShouldFailValidation ser till att validationsprocessen för giltiga registreringsnummer är korrekt. 
 ## Dag 9: Systemtest
 Jag testade hela systemflödet: från själva parkeringen fram till utcheckningen. Verifierade fordonsdelning på platser. Genomförde tester kring parkering för bussar. Såg till att alla konfigurationsfiler fungerade.
-##Dag 10: Avslutning
+## Dag 10: Avslutning
 Jag förbättrade användargränssnittet med färgkodning. Kodgranskning och kravverifiering genomfördes. Jag såg till att alla krav var uppfyllda, därefter ladda jag upp projektet till github. 
 
